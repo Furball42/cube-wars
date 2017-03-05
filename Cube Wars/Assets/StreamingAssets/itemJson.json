@@ -1,0 +1,48 @@
+[
+  {
+    "id": 0,
+    "title": "Auto Cannon",
+    "value": 3,
+    "stats": {
+      "cooldown": 1000,
+      "muzzleVelocity": 85.0,
+      "burstAmount": 1,
+	  "damage": 6
+    },
+    "stackable": false,
+    "dropPercentage": 1.0,
+    "slug": "auto_cannon",
+	"type": "Main"
+  },
+  {
+    "id": 1,
+    "title": "Dual Cannon",
+    "value": 5,
+    "stats": {
+      "cooldown": 1000,
+      "muzzleVelocity": 75.0,
+      "burstAmount": 1,
+	  "damage": 4
+    },
+    "stackable": false,
+    "dropPercentage": 1.0,
+    "slug": "dual_cannon",
+	"type": "Main"
+  },
+  {
+    "id": 2,
+    "title": "Burst Cannon",
+    "value": 7,
+    "stats": {
+      "cooldown": 100,
+      "muzzleVelocity": 75.0,
+      "burstAmount": 3,
+	  "damage": 3
+    },
+    "stackable": false,
+    "dropPercentage": 1.0,
+    "slug": "burst_cannon",
+	"type": "Main"
+  }
+
+]
